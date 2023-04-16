@@ -1,0 +1,204 @@
+ 
+body{
+
+
+font-family: "montserrat";
+
+}
+
+#first
+{
+   background-color: #ff4c68;
+   color: #ffff;
+
+}
+
+
+ h1
+ {
+ 
+font-family: 'Montserrat', sans-serif;
+
+   font-size: 3.5rem;
+
+    line-height: 1.5;
+    margin:120px;
+
+ }
+ h2
+ {
+   font-family: 'Montserrat', sans-serif;
+
+   font-size: 3.5rem;
+
+    line-height: 1.5;
+
+ }
+ h3
+ {
+  font-family: 'Montserrat', sans-serif;
+
+   font-size: 3.5rem;
+
+    line-height: 1.5;
+
+ }
+ 
+
+
+/*naigation bar*/
+.navbar
+{
+  padding-bottom:0 0 4.5rem;
+}
+.navbar-brand
+{
+
+font-family: 'Ubuntu', sans-serif;
+font-size: 2.5rem;
+font-weight: bold;
+  
+}
+.nav-item
+{
+ padding: 0.18px;
+
+}
+.nav-link
+{
+
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+.downlode-button
+{
+  margin: 5% 3% 5% 0%;
+
+}
+
+ .iphone6-text
+ {
+    padding-top:80px;
+  
+  }
+  
+  
+
+ .iphone6-img
+ {
+  position: relative;
+   transform: rotate(0deg);
+
+ }
+ .downlode-button
+ {
+
+  padding-top:150px;
+ }
+ .col-name{
+
+  font-family: "Montserrat-black-bold", sans-serif ;
+
+padding-top: 80;
+padding-bottom: 80;
+padding:10%;
+
+ }
+
+ 
+ .icon{
+
+color:#ef8172 ;
+font-size:5rem;
+padding-bottom: 30px;
+
+ }
+ .paragraph{
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 30px;
+  color:#8f8f8f ;
+ }
+#third
+{
+ padding:100px;
+  text-align: center;
+  background-color: #ff4c68;
+ color: #ffff;
+
+
+}
+
+.third-image
+{
+width: 10%;
+border-radius:100%;
+margin: 30px;
+}
+#fourth-images
+{
+ background-color: #ff4c68;  
+ text-align: center;
+ padding-bottom: 5%;
+}
+.images
+{
+  width:15%;
+  margin:20px 20px 40px;
+}
+.carousel-item
+{
+  padding: 5% 17%;
+
+}
+/*pricing*/
+#pricing
+{
+
+  padding:100px;
+}
+.pricing-column{
+   
+   text-align: center;
+  padding:3% 2%;
+}
+@media(max-width:1028px){
+ #first
+ {
+  text-align: center;
+ }
+
+.iphone6-img
+{
+  position: static;
+  transform: rotate(0);
+}
+}
+#five
+{ 
+  padding:100px;
+  text-align:center;
+  background-color:#ff4c68;
+  color:#fff;
+  margin: ;
+}
+.five-heading
+{ 
+  font-size:60px;
+  text-align: center;
+  padding-bottom:150px;
+
+}
+.downlode-btn
+{
+  padding:50px;
+}
+#social-media
+{
+padding:200px;
+background-color:#fff;
+text-align: center;
+
+}
+
